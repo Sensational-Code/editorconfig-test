@@ -1,0 +1,7 @@
+# Top-most EditorConfig file
+root = true
+
+# Enforce 2 space indentation
+[*.{js,jsx,html,sass,scss,css}]
+charset = utf-8
+indent_size = 2
